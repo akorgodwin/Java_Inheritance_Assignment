@@ -1,6 +1,6 @@
 public class Wild extends Land_Animals{
 
-    void Lion(){
+    public void Lion(){
 
         System.out.println("Lion is termed as a wild animal because it lives in the forest");
     }
