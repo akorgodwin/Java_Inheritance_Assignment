@@ -8,8 +8,8 @@ public class Domestic extends Land_Animals{
 
         Domestic Dome = new Domestic();
 
-        Dome.Dog();
-        Dome.Definition();
+        Dome.Dog();   // to display the message in the method created in the subclass
+        Dome.Definition();  // to display the message in the method created in the superclass
 
     }
 }
