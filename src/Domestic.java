@@ -1,6 +1,6 @@
 public class Domestic extends Land_Animals{
 
-    void Dog(){
+     public void Dog(){
         System.out.println("Dog is an example of a domestic animal that lives in the house");
     }
 
