@@ -1,6 +1,6 @@
 public class Mammals extends Animals{
 
-    // Mammals here extends the Animal class as single Inheritance
+    // Mammals here extend the Animal class as single Inheritance
 
     public void Vertebrate(){
 
@@ -11,7 +11,7 @@ public class Mammals extends Animals{
 
         Mammals animal_type = new Mammals();
 
-        animal_type.Vertebrate();
+        animal_type.Vertebrate(); // to display the message in the method created in the subclass Mammals
         animal_type.life();
     }
 }
