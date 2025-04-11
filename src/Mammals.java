@@ -12,6 +12,6 @@ public class Mammals extends Animals{
         Mammals animal_type = new Mammals();
 
         animal_type.Vertebrate(); // to display the message in the method created in the subclass Mammals
-        animal_type.life();
+        animal_type.life();  // to display the message in the method created in the superclass
     }
 }
