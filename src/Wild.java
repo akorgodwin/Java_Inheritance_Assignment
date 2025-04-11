@@ -8,7 +8,7 @@ public class Wild extends Land_Animals{
     public static void main(String[] args) {
         Wild bush = new Wild();
 
-        bush.Definition();
-        bush.Lion();
+        bush.Definition(); // to display the message in the method created in the superclass
+        bush.Lion();  // to display the message in the method created in the subclass
     }
 }
